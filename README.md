@@ -2,7 +2,7 @@
 
 Simple extension to make it easier to share things from Reddit.
 
-![Reddit Smart Share Screenshot](docs/images/screeenshot.png)
+![Reddit Smart Share Screenshot](docs/images/screenshot.png)
 
 [![Video Player](docs/images/player.png)](https://v.redd.it/0wtzbmbprtc01/DASH_600_K)
 
