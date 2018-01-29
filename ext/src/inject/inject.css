@@ -1,0 +1,18 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+ .reddit-smart-share-download-link{
+     background: white;
+     left: 0px;
+     top: 0px;
+     border-bottom-right-radius: 5px;
+     padding: 4px;
+     position: absolute;
+     z-index: 9;
+     opacity: 0.4;
+ }
+
+ .reddit-smart-share-download-link:hover {
+     opacity: 0.8;
+ }
